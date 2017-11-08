@@ -1,0 +1,8 @@
+br\com\jvitoraa\cdesp\configuration\JpaConfiguration.class
+br\com\jvitoraa\cdesp\model\Despesa.class
+br\com\jvitoraa\cdesp\repo\DespesaRepository.class
+br\com\jvitoraa\cdesp\service\DespesaService.class
+br\com\jvitoraa\cdesp\controller\RestApiController.class
+br\com\jvitoraa\cdesp\ControleDespesasApp.class
+br\com\jvitoraa\cdesp\controller\AppController.class
+br\com\jvitoraa\cdesp\service\DespesaServiceImpl.class
